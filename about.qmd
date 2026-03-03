@@ -9,11 +9,11 @@ title: "About"
 
 # About Me
 
-I’m a junior/senior Data Analytics student at **College Name**. I enjoy turning messy data into clear insights and communicating results in a reproducible way.
+I’m a senior Data Analytics student at Denison University. I enjoy turning messy data into clear insights and communicating results in a reproducible way. I am passionate about translating insights into meaningful outcomes in terms of policy and health outcomes for individuals. 
 
 ## Skills
-- **Programming:** R (tidyverse), (Python), SQL  
-- **Tools:** Git/GitHub, Quarto, Excel, Tableau/Power BI  
+- **Programming:** R (tidyverse, shiny), Python, SQL  
+- **Tools:** Git/GitHub, Quarto, Excel, Tableau/Power BI, Jupyter Notebook, Rstudio  
 - **Analytics:** visualization, modeling, experimental design, reporting
 
 ## What I’m working on
