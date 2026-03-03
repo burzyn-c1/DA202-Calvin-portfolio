@@ -32,7 +32,7 @@
     "href": "about.html#skills",
     "title": "About Me",
     "section": "Skills",
-    "text": "Skills\n\nProgramming: R (tidyverse, shiny), Python, SQL\n\nTools: Git/GitHub, Quarto, Excel, Tableau/Power BI, Jupyter Notebook, Rstudio\n\nAnalytics: visualization, modeling, experimental design, reporting"
+    "text": "Skills\n\nProgramming: R (tidyverse), Python, SQL\n\nTools: Git/GitHub, Quarto, Excel, Tableau/Power BI, Markdown, Shiny\nAnalytics: visualization, modeling, experimental design, reporting"
   },
   {
     "objectID": "about.html#what-im-working-on",
@@ -82,5 +82,12 @@
     "title": "Home",
     "section": "",
     "text": "Email: burzyn_c1@denison.edu\n\nGitHub: https://github.com/burzyn-c1\n\nLinkedIn: www.linkedin.com/in/calvin-burzynski"
+  },
+  {
+    "objectID": "about.html#coursework",
+    "href": "about.html#coursework",
+    "title": "About Me",
+    "section": "Coursework",
+    "text": "Coursework\n\nCS 181: Data Systems\nDA 352: Advanced Predictive Methods\nDA 401: Seminar in Data Analytics\nECON 467: Econometrics II\nECON 444: Macroeconomic Policy ## Resume (optional) Add a link to a PDF resume stored in your repo, or link to LinkedIn."
   }
 ]
