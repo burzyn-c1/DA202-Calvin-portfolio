@@ -12,15 +12,18 @@ title: "About"
 I’m a senior Data Analytics student at Denison University. I enjoy turning messy data into clear insights and communicating results in a reproducible way. I am passionate about translating insights into meaningful outcomes in terms of policy and health outcomes for individuals. 
 
 ## Skills
-- **Programming:** R (tidyverse, shiny), Python, SQL  
-- **Tools:** Git/GitHub, Quarto, Excel, Tableau/Power BI, Jupyter Notebook, Rstudio  
+- **Programming:** R (tidyverse), Python, SQL  
+- **Tools:** Git/GitHub, Quarto, Excel, Tableau/Power BI, Markdown, Shiny
 - **Analytics:** visualization, modeling, experimental design, reporting
 
 ## What I’m working on
 - (Add 1–2 bullets: capstone topic, research, internship project, etc.)
 
-## Coursework (optional)
-- (Add 3–5 relevant courses)
-
+## Coursework 
+- CS 181: Data Systems
+- DA 352: Advanced Predictive Methods
+- DA 401: Seminar in Data Analytics
+- ECON 467: Econometrics II
+- ECON 444: Macroeconomic Policy
 ## Resume (optional)
 Add a link to a PDF resume stored in your repo, or link to LinkedIn.
